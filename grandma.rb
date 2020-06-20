@@ -1,4 +1,4 @@
-phrase = "hey whats up"
+
 
 def speak_to_grandma(phrase)
 if phrase == phrase.upcase
